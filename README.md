@@ -13,7 +13,7 @@ As a DevOps enthusiast, I want to use Terraform to define and manage AWS resourc
 1.**Clone the Repository**:
 
 Begin by cloning the terraform as IaC to your local machine.
-git clone <https://gitlab.com/infra8700923/devops-repo>
+git clone <https://gitlab.com/infra8700923/terraform>
 
 ## Key Highlights
 
